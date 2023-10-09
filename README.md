@@ -40,6 +40,8 @@ Before you get started, ensure you have the following tools and dependencies ins
   
   }
 
+ - update env file for database cred
+
 - Run Migrations:
    ```bash
    sequelize db:migrate
